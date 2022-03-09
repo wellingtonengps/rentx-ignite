@@ -53,7 +53,7 @@ export function Splash() {
   });
 
   function starApp() {
-    navigation.navigate("Home");
+    navigation.navigate("SignIn");
   }
 
   useEffect(() => {
